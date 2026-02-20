@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360576633880",
+    "project_id": "sneakerlink-firebase",
+    "storage_bucket": "sneakerlink-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360576633880:android:23165ecd230b44788a876d",
+        "android_client_info": {
+          "package_name": "com.example.sneakerlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360576633880-1pfc6455ghsak7ooqq9krhfcih7nruhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANS_g7oXXIWk2envv3DgoQ7iOL-jl6jqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360576633880-1pfc6455ghsak7ooqq9krhfcih7nruhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
